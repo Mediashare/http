@@ -1,0 +1,17 @@
+{
+    "name": "kzu/http",
+    "type": "library",
+    "authors": [
+        {
+            "name": "MarquandT",
+            "email": "thibault@marquand.pro"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kzu\\Http\\": "src/"
+        }
+    }
+}
